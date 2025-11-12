@@ -18,7 +18,7 @@ Coding
 
 ## Visualization Tools
 Tool used🛠️: Power BI
-Data set used:  Netflix Dataset
+Data set used:  Netflix Dataset [https://www.kaggle.com/datasets/shivamb/netflix-shows]
 This Power BI project leverages a rich palette of visualizations, including bar charts, area charts, tree maps, and donut charts. These visuals are carefully crafted to make complex data easily accessible and visually engaging, enhancing the user experience.
 
 ## Dashboard
