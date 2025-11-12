@@ -1,3 +1,6 @@
+## Netflix PowerBI Dashboard📺
+"C:\Users\Aditya\Downloads\netflix-mobile-application-logo-free-png.webp"
+
 ## Introduction
 Netflix, the global giant in media and video streaming, captivates over 200 million subscribers worldwide with its diverse library of over 8000 movies and TV shows. In this age of digital entertainment, understanding the intricate dynamics of Netflix's content offering is paramount. Our "Netflix Power BI Dashboard" delves deep into this ever-expanding universe of entertainment, providing valuable insights and illuminating patterns that can steer content strategies and viewer engagement.
 
@@ -16,6 +19,11 @@ Coding
 Tool used🛠️: Power BI
 Data set used:  Netflix Dataset
 This Power BI project leverages a rich palette of visualizations, including bar charts, area charts, tree maps, and donut charts. These visuals are carefully crafted to make complex data easily accessible and visually engaging, enhancing the user experience.
+
+## Dashboard
+
+<img width="1320" height="738" alt="Netflix dashboard" src="https://github.com/user-attachments/assets/c318e76b-8174-4697-b8c5-1a9d65a5b646" />
+
 
 ## Conclusion
 In a world where data-driven decisions are paramount, our Netflix Power BI Dashboard Project empowers content creators, marketers, and decision-makers in the entertainment industry to navigate the Netflix universe effectively. Explore the nuances of content genres, audience preferences, and international contributions while unveiling the hidden gems within Netflix's content repository. Welcome to the era of data-driven entertainment strategy, brought to life through the power of Power BI.
